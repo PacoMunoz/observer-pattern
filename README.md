@@ -1,1 +1,3 @@
-# state-pattern
+# observer pattern
+
+Simple observer pattern example
